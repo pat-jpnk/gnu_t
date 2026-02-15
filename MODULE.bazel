@@ -1,0 +1,4 @@
+module(
+    name = "gnu_linux_x86_64",
+    version = "0.1.0",
+)
